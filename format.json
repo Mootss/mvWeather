@@ -1,0 +1,73 @@
+infoList = [
+	{
+		"general weather" : {
+
+			"temp" : "v",
+			"condition" : "v",
+			"station" : "v",
+
+			"sunrise" : "v",
+			"sunset" : "v",
+			"moonrise" : "v",
+			"moonset" : "v",
+			"humidity" : "v",
+			"rainfall" : "v",
+			"wind" : "v",
+			"sunshine" : "v",
+		}
+
+	},
+
+	{
+		"tide info" : {
+
+			"high1" : "v",
+			"high1 time" : "v",
+			"high2" : "v",
+			"high2 time" : "v",
+			"low1" : "v",
+			"low1 time" : "v",
+			"low2" : "v",
+			"low2 time" : "v"
+		}
+	},
+
+	{
+		"three day forecast" : [
+
+			{
+				"first day" : {
+
+					"date" : "v",
+					"condition" : "v",
+					"wind" : "v",
+					"sea" : "v"
+				}
+
+			},
+
+			{
+				"second day" : {
+
+					"date" : "v",
+					"condition" : "v",
+					"wind" : "v",
+					"sea" : "v"
+				}
+
+			},
+
+			{
+				"third day" : {
+
+					"date" : "v",
+					"condition" : "v",
+					"wind" : "v",
+					"sea" : "v"
+				}
+
+			}
+
+		]
+	}
+]
